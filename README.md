@@ -1,4 +1,4 @@
-# Linear Regression using the close's price of Bitcoin and Ethereum between the begin of this year until november 30th of the same year.
+# Linear Regression using the close's price of Bitcoin and Ethereum between the begin of this year (2022) until november 30th of the same year.
 
 The purpose of this analysi was a work that I had to do for econometrics subject at university.
 
